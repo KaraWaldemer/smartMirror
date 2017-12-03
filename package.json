@@ -1,0 +1,19 @@
+{
+  "name": "smartMirror",
+  "version": "1.0.0",
+  "description": "A personal smart mirror implementation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git@waldercloud:srv/git/smartMirror.git",
+  "keywords": [
+    "Electron",
+    "smartMirror"
+  ],
+  "author": "Kara Waldemer",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
